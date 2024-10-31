@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .dr-row {
+     clear: both;
+ }
+
+ .dr-sm-4{
+     width: 33%;
+     float: left;
+ }
+ .dr-sm-8{
+     width: 64%;
+     float: right;
+     margin-left:2%;
+ } 
